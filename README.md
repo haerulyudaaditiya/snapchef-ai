@@ -1,5 +1,7 @@
 # SnapChef AI
 
+[![Streamlit App](https://img.shields.io/badge/Launch%20App-Streamlit-brightgreen?logo=streamlit)](https://snapchef-ai.streamlit.app/)
+
 **SnapChef AI** adalah aplikasi asisten kuliner berbasis kecerdasan buatan yang membantu pengguna menemukan ide masakan berdasarkan bahan makanan yang tersedia. Dengan memanfaatkan teknologi **Google Gemini Multimodal AI (Computer Vision & Text Generation)**, aplikasi ini mampu menganalisis gambar bahan makanan dan menghasilkan rekomendasi resep yang relevan, sehat, dan mudah diikuti.
 
 ---
@@ -7,6 +9,7 @@
 ## Daftar Isi
 
 - [Deskripsi Proyek](#deskripsi-proyek)
+- [Live Demo](#live-demo)
 - [Fitur Utama](#fitur-utama)
 - [Demo Screenshot](#demo-screenshot)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
@@ -31,6 +34,11 @@ SnapChef AI dirancang untuk menyelesaikan permasalahan umum rumah tangga: menent
    - daftar bahan,
    - langkah memasak,
    - serta estimasi nilai gizi.
+
+---
+
+## Live Demo
+https://snapchef-ai.streamlit.app/
 
 ---
 

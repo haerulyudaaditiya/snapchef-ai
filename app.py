@@ -335,7 +335,7 @@ with col2:
 st.markdown("<div class='custom-divider'></div>", unsafe_allow_html=True)
 st.markdown(
     "<div style='text-align: center; color: var(--text-secondary); font-size: 0.9rem;'>"
-    "SnapChef AI • Powered by Google Gemini Multimodal AI • © 2024 Haerul Yuda Aditiya"
+    "SnapChef AI • Powered by Google Gemini Multimodal AI • © 2025 Haerul Yuda Aditiya"
     "</div>", 
     unsafe_allow_html=True
 )
