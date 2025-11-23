@@ -328,14 +328,14 @@ with col2:
                     # Success indicator
                     st.toast("Resep berhasil dibuat!", icon="✅")
     else:
-        st.info("Unggah gambar di kolom sebelah kiri untuk menghasilkan resep")
+        st.info("Unggah gambar untuk menghasilkan resep")
     st.markdown("</div>", unsafe_allow_html=True)
 
 # 4. Footer
 st.markdown("<div class='custom-divider'></div>", unsafe_allow_html=True)
 st.markdown(
     "<div style='text-align: center; color: var(--text-secondary); font-size: 0.9rem;'>"
-    "SnapChef AI • Powered by Google Gemini • Final Project AI Tools"
+    "SnapChef AI • Powered by Google Gemini Multimodal AI • © 2024 Haerul Yuda Aditiya"
     "</div>", 
     unsafe_allow_html=True
 )
